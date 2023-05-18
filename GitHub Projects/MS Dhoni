@@ -1,0 +1,85 @@
+,Runs,BF,SR,4s,6s,Opposition,Ground,Start Date,year
+0,0,2,0.0,0,0,South Africa,Johannesburg,2006-12-01,2006.0
+1,33,31,106.45,3,1,Pakistan,Durban,2007-09-14,2007.0
+2,24,20,120.0,2,0,New Zealand,Johannesburg,2007-09-16,2007.0
+3,10,8,125.0,0,0,England,Durban,2007-09-19,2007.0
+4,45,33,136.36,4,1,South Africa,Durban,2007-09-20,2007.0
+5,36,18,200.0,4,1,Australia,Durban,2007-09-22,2007.0
+6,6,10,60.0,0,0,Pakistan,Johannesburg,2007-09-24,2007.0
+7,9,5,180.0,0,1,Australia,Brabourne,2007-10-20,2007.0
+8,9,27,33.33,0,0,Australia,Melbourne,2008-02-01,2008.0
+9,13,17,76.47,1,0,Sri Lanka,Colombo (RPS),2009-02-10,2009.0
+10,2,6,33.33,0,0,New Zealand,Christchurch,2009-02-25,2009.0
+11,28,30,93.33,2,0,New Zealand,Wellington,2009-02-27,2009.0
+12,26,21,123.8,0,1,Bangladesh,Nottingham,2009-06-06,2009.0
+13,14,13,107.69,1,0,Ireland,Nottingham,2009-06-10,2009.0
+14,11,23,47.82,0,0,West Indies,Lord's,2009-06-12,2009.0
+15,30,20,150.0,3,0,England,Lord's,2009-06-14,2009.0
+16,5,12,41.66,0,0,South Africa,Nottingham,2009-06-16,2009.0
+17,9,12,75.0,0,0,Sri Lanka,Nagpur,2009-12-09,2009.0
+18,46,28,164.28,3,2,Sri Lanka,Mohali,2009-12-12,2009.0
+19,15,6,250.0,0,2,Afghanistan,Gros Islet,2010-05-01,2010.0
+20,16,6,266.66,1,1,South Africa,Gros Islet,2010-05-02,2010.0
+21,2,8,25.0,0,0,Australia,Bridgetown,2010-05-07,2010.0
+22,29,18,161.11,2,2,West Indies,Bridgetown,2010-05-09,2010.0
+23,23,19,121.05,0,1,Sri Lanka,Gros Islet,2010-05-11,2010.0
+24,10,11,90.9,0,0,South Africa,Durban,2011-01-09,2011.0
+25,8,8,100.0,1,0,England,Manchester,2011-08-31,2011.0
+26,21,26,80.76,0,1,England,Eden Gardens,2011-10-29,2011.0
+27,48,43,111.62,1,3,Australia,Sydney,2012-02-01,2012.0
+28,21,18,116.66,2,0,Australia,Melbourne,2012-02-03,2012.0
+29,16,14,114.28,2,0,Sri Lanka,Pallekele,2012-08-07,2012.0
+30,22,23,95.65,2,0,New Zealand,Chennai,2012-09-11,2012.0
+31,18,9,200.0,2,1,Afghanistan,Colombo (RPS),2012-09-19,2012.0
+32,9,8,112.5,1,0,England,Colombo (RPS),2012-09-23,2012.0
+33,15,21,71.42,2,0,Australia,Colombo (RPS),2012-09-28,2012.0
+34,23,13,176.92,3,0,South Africa,Colombo (RPS),2012-10-02,2012.0
+35,24,21,114.28,2,0,England,Pune,2012-12-20,2012.0
+36,38,18,211.11,3,2,England,Wankhede,2012-12-22,2012.0
+37,1,2,50.0,0,0,Pakistan,Bengaluru,2012-12-25,2012.0
+38,33,23,143.47,4,0,Pakistan,Ahmedabad,2012-12-28,2012.0
+39,24,21,114.28,2,0,Australia,Rajkot,2013-10-10,2013.0
+40,22,12,183.33,1,2,Bangladesh,Mirpur,2014-03-28,2014.0
+41,24,20,120.0,1,1,Australia,Mirpur,2014-03-30,2014.0
+42,0,1,0.0,0,0,South Africa,Mirpur,2014-04-04,2014.0
+43,4,7,57.14,0,0,Sri Lanka,Mirpur,2014-04-06,2014.0
+44,27,18,150.0,2,1,England,Birmingham,2014-09-07,2014.0
+45,20,12,166.66,2,1,South Africa,Dharamsala,2015-10-02,2015.0
+46,5,8,62.5,0,0,South Africa,Cuttack,2015-10-05,2015.0
+47,11,3,366.66,1,1,Australia,Adelaide,2016-01-26,2016.0
+48,14,9,155.55,2,0,Australia,Melbourne,2016-01-29,2016.0
+49,2,2,100.0,0,0,Sri Lanka,Pune,2016-02-09,2016.0
+50,9,5,180.0,1,0,Sri Lanka,Ranchi,2016-02-12,2016.0
+51,8,2,400.0,0,1,Bangladesh,Mirpur,2016-02-24,2016.0
+52,7,3,233.33,1,0,Pakistan,Mirpur,2016-02-27,2016.0
+53,7,4,175.0,0,1,Sri Lanka,Mirpur,2016-03-01,2016.0
+54,20,6,333.33,1,2,Bangladesh,Mirpur,2016-03-06,2016.0
+55,30,30,100.0,1,1,New Zealand,Nagpur,2016-03-15,2016.0
+56,13,9,144.44,0,1,Pakistan,Eden Gardens,2016-03-19,2016.0
+57,13,12,108.33,1,0,Bangladesh,Bengaluru,2016-03-23,2016.0
+58,18,10,180.0,3,0,Australia,Mohali,2016-03-27,2016.0
+59,15,9,166.66,1,0,West Indies,Wankhede,2016-03-31,2016.0
+60,19,17,111.76,1,0,Zimbabwe,Harare,2016-06-18,2016.0
+61,9,13,69.23,1,0,Zimbabwe,Harare,2016-06-22,2016.0
+62,43,25,172.0,2,2,West Indies,Lauderhill,2016-08-27,2016.0
+63,36,27,133.33,3,0,England,Kanpur,2017-01-26,2017.0
+64,5,7,71.42,0,0,England,Nagpur,2017-01-29,2017.0
+65,56,36,155.55,5,2,England,Bengaluru,2017-02-01,2017.0
+66,2,3,66.66,0,0,West Indies,Kingston,2017-07-09,2017.0
+67,1,1,100.0,0,0,Sri Lanka,Colombo (RPS),2017-09-06,2017.0
+68,13,16,81.25,1,0,Australia,Guwahati,2017-10-10,2017.0
+69,7,2,350.0,0,1,New Zealand,Delhi,,
+70,49,37,132.43,2,3,New Zealand,Rajkot,,
+71,39,22,177.27,4,1,Sri Lanka,Cuttack,2017-12-20,2017.0
+72,28,21,133.33,2,2,Sri Lanka,Indore,2017-12-22,2017.0
+73,16,10,160.0,2,0,Sri Lanka,Wankhede,2017-12-24,2017.0
+74,16,11,145.45,2,0,South Africa,Johannesburg,2018-02-18,2018.0
+75,52,28,185.71,4,3,South Africa,Centurion,2018-02-21,2018.0
+76,12,11,109.09,1,0,South Africa,Cape Town,2018-02-24,2018.0
+77,11,5,220.0,1,1,Ireland,Dublin (Malahide),2018-06-27,2018.0
+78,32,24,133.33,5,0,England,Cardiff,2018-07-06,2018.0
+79,39,31,125.8,5,1,New Zealand,Wellington,2019-02-06,2019.0
+80,20,17,117.64,1,0,New Zealand,Auckland,2019-02-08,2019.0
+81,2,4,50.0,0,0,New Zealand,Hamilton,2019-02-10,2019.0
+82,29,37,78.37,0,1,Australia,Visakhapatnam,2019-02-24,2019.0
+83,40,23,173.91,3,3,Australia,Bengaluru,2019-02-27,2019.0
